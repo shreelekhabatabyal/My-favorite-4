@@ -1,0 +1,80 @@
+img {
+    height: 250px;
+    width: 250px;
+    background-image: url("https://thumbs.gfycat.com/BestRegalCommabutterfly-size_restricted.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+body {
+    background: linear-gradient( #ffff66 0%, #ff99cc 100%);
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 29px;
+
+    margin-top: 10%;
+
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #ff006f;
+    text-align: center;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+    color: none;
+
+}
+
+.links {
+    color: red;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    font-family: fantasy;
+    font-size: 25px;
+    float: left;
+
+
+}
+
+.links:hover {
+    background-color: floralwhite;
+
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
+#the12months{
+    height: 300px;
+    width: 200px;
+    
+}
+h3{
+     font-family: sans-serif;
+    font-size: 20px;
+    color: green;
+    text-align: center;
+}
+#apj{
+    border-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jmtmk5UaQRhCjAdNS8m2l2IqR1y5W8qWHOnuH2sSZrD7LiRIYl52ln0xrAy_3INRkOo&usqp=CAU);
+        height:300px;
+    width: 200px;
+    border-image-width: 100px;
+}
+
